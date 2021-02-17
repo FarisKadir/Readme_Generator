@@ -45,44 +45,83 @@ inquirer.prompt([
     },
     {
         type: "input",
-        message: "if someone has questions about your app, how can they reach you?",
-        name: "questions",
+        message: "What is your GitHub username?",
+        name: "username",
+    },
+    {
+        type: "input",
+        message: "What is your email address, so that users can contact you with questions?",
+        name: "email",
     },
 
 ]).then(answers =>    {
         let readme = 
-        
-        `# ${answers.title}
+`# ${answers.title}
 
-        ## Description
+## Description
 
-        ${answers.description}
+${answers.description}
 
-        #### Table of Contents
+---
 
-        [Installation](#Installation)
-        [Usage](#Usage)
-        [License](#License)
-        [Contribution_Guidelines](#Contribution_Guidelines)
-        [Tests](#Tests)
-        [Questions?](#Questions?)
+## Table of Contents
 
-        ## Installation
+[Installation](#Installation)
 
-        ## Usage
+[Usage](#Usage)
 
-        ## License
+[License](#License)
 
-        ${answers.licenses}
+[Contribution_Guidelines](#Contribution_Guidelines)
 
-        ## Contribution_Guidelines
+[Tests](#Tests)
 
-        ## Tests
+[Questions?](#Questions?)
 
-        ## Questions?
+---
+
+## Installation
+
+Here are the installation instructions for my application:
+
+${answers.install_instructions}
+
+---
+
+## Usage
+
+${answers.usage}
+
+---
+
+## License
+
+This application is covered under the ${answers.license} license.
+
+---
+
+## Contribution_Guidelines
+
+${answers.contribute}
+
+---
+
+## Tests
+
+This application is bug free all day, BUT! If you want to test you can follow these instructions:
+
+${answers.test}
+
+---
+
+## Questions?
+
+If you have any questions you can reach me at ${answers.email}. You can also contact me on GitHub, my profile can be found at https://github.com/${answers.username}.
+
+
         
         `;
         fs.writeFile("./assets/readme.md", readme, err2 =>   {
-            err2 ? console.log(err2) : console.log("Successfully created your readme.md file!");
+            err2 ? console.log(err2) : console.log("Successfully created your readme.md file! It can be found in the assets folder.");
         });
     });
