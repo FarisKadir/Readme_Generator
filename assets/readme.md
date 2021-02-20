@@ -1,10 +1,14 @@
-# dggdgh
+# Testing
+
+
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+---
 
 ## Description
 
-
-dfhdfh
-
+For hw
 
 ---
 
@@ -24,51 +28,43 @@ dfhdfh
 
 ---
 
-
 ## Installation
 
+Here are the installation instructions for my application:
 
-dhffjh
+no installation
 
 ---
-
 
 ## Usage
 
-
-fdhfdj
+dgdag
 
 ---
-
 
 ## License
 
-
-Creative Commons Attribution 4.0
+This application is covered under the [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) license.
 
 ---
-
 
 ## Contribution_Guidelines
 
-
-shfsj
+adg
 
 ---
-
 
 ## Tests
 
+This application is bug free all day, BUT! If you want to test you can follow these instructions:
 
-dsjhsj
+dhfdsh
 
 ---
 
-
 ## Questions?
 
-
-fhfdshd@Gmial.com
+If you have any questions you can reach me at faris.kadir@gmail.com. You can also contact me on GitHub, my profile can be found at https://github.com/fariskadir.
 
 
         
