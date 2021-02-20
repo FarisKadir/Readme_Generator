@@ -46,10 +46,9 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
-## Mock_Up
+## Demonstration
 
-<iframe src="https://drive.google.com/file/d/13wH5wVcTNluBoMcjgja6HUwPNdieDFgx/preview" width="640" height="480"></iframe>
-
+https://www.youtube.com/watch?v=CzYPzeLuPVE&feature=youtu.be
 
 ## Installation_Instructions
 
