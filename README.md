@@ -13,7 +13,7 @@ Tired of creating readme files? This app is for you! I created this app to make 
 
 [Acceptance Criteria](#Acceptance_Criteria)
 
-[Mock Up](#Mock-Up)  
+[Demonstration](#Demonstration)  
 
 [Installation Instructions](#Installation_Instructions)  
 
