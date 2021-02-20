@@ -10,10 +10,12 @@ Tired of creating readme files? This app is for you! I created this app to make 
 #### Table of Contents
 
 [User Story](#User_Story)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
+
+[Acceptance Criteria](#Acceptance_Criteria)
+
+[Mock Up](#Mock-Up)  
+
+[Installation Instructions](#Installation_Instructions)  
 
 
 ## User_Story
@@ -24,7 +26,7 @@ I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
 ```
 
-## Acceptance Criteria
+## Acceptance_Criteria
 
 ```
 GIVEN a command-line application that accepts user input
@@ -44,13 +46,18 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
-## Mock Up
+## Mock_Up
 
 
-## Installation Instructions
 
 
-## Questions / Troubleshooting
+## Installation_Instructions
+
+This application can only be run in the terminal. In order to run it successfully you will need to install Inquirer by typing the following into your terminal:
+
+npm install inquirer
 
 
-## How can you contribute?
+
+
+

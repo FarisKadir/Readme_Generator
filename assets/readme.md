@@ -1,14 +1,14 @@
-# Testing
+# d
 
+---
 
-
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
 
 ---
 
 ## Description
 
-For hw
+d
 
 ---
 
@@ -32,25 +32,25 @@ For hw
 
 Here are the installation instructions for my application:
 
-no installation
+d
 
 ---
 
 ## Usage
 
-dgdag
+d
 
 ---
 
 ## License
 
-This application is covered under the [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) license.
+This application is covered under the BSD 2-Clause  license.
 
 ---
 
 ## Contribution_Guidelines
 
-adg
+d
 
 ---
 
@@ -58,13 +58,13 @@ adg
 
 This application is bug free all day, BUT! If you want to test you can follow these instructions:
 
-dhfdsh
+d
 
 ---
 
 ## Questions?
 
-If you have any questions you can reach me at faris.kadir@gmail.com. You can also contact me on GitHub, my profile can be found at https://github.com/fariskadir.
+If you have any questions you can reach me at d. You can also contact me on GitHub, my profile can be found at https://github.com/d.
 
 
         
